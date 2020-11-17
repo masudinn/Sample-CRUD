@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>CRUD Produk dengan gambar - Gilacoding</title>
+    <title>CRUD Barang</title>
     <style type="text/css">
       * {
         font-family: "Trebuchet MS";
@@ -46,7 +46,7 @@
     </style>
   </head>
   <body>
-    <center><h1>Data Produk</h1><center>
+    <center><h1>Data Barang</h1><center>
     <center><a href="tambah.php">+ &nbsp; Tambah Produk</a><center>
     <br/>
     <table>
